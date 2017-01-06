@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/opetgether/open-dates/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Gists](https://gist.github.com/opetgether/788d38ba237d528101bf19a4ddd82bc2)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -21,5 +23,5 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-[Gists](https://gist.github.com/opetgether/788d38ba237d528101bf19a4ddd82bc2)
+
 
